@@ -1,0 +1,7 @@
+# .gitignore
+
+# Ignore .env file
+.env
+
+# Ignore __pycache__ directory
+__pycache__
